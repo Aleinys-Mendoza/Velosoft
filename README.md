@@ -7,11 +7,11 @@ Official website developed to present VeloSoft Solutions services, portfolio and
 
 🛠 Technologies Used
 ---
-HTML5
-CSS3
-JavaScript
-Responsive Design
-Netlify Deployment
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Netlify Deployment
 
 📌 Project Overview
 ---
@@ -20,10 +20,10 @@ It was designed with a clean and modern layout focused on usability and performa
 
 The website includes:
 
-Company presentation
-Services section
-Contact information
-Responsive layout for multiple devices
+- Company presentation
+- Services section
+- Contact information
+- Responsive layout for multiple devices
 
 🎯 Purpose
 ---
@@ -35,6 +35,6 @@ The application is deployed using Netlify for continuous deployment and hosting.
 
 👨‍💻 Author
 ---
-Aleinys Mendoza
-Software Developer
-Founder – VeloSoft Solutions
+- Aleinys Mendoza
+- Software Developer
+- Founder – VeloSoft Solutions
